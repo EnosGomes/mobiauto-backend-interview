@@ -1,4 +1,4 @@
-package com.creta.mobiautobackendinterview;
+package com.creta.mobi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
